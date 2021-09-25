@@ -8,7 +8,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>Welcome to Wheel & Deal, a league of patron saints, salty losses, where kickers reign and I lose in the first round.</p>
-  <p>I used to do a newsletter every week for this league, but it was so much work. Then, I found a website... And here we are! This place will use all sleeper info to show a lot of the same stuff, but to also keep our history and to get back to some kind of weekly content.</p>
+  <p>I used to do a newsletter every week for this league, but it was so much work. Then, I found a website... And here we are! This place will use all sleeper info to show a lot of the same stuff, but will also keep our history, give us some power rankings, and get me (and anyone else!) back on content.</p>
   <p>At the bottom I'll have links to all previous content like the spreadsheet that I plan on revamping, some old newsletters, draft videos etc.</p>
   <p>I hope you guys enjoy this, I'll ping the sleeper chat when I put up some sort of update. I'm still learning this so bear with me!</p>
   <p>May your waivers fail and your bench outscore your starters.</p>

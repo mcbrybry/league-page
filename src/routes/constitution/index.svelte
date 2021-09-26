@@ -4,6 +4,7 @@
 
 <script>
     import { dues } from '$lib/utils/helper';
+    let zero, zeroOne;
     let one, oneOne, oneOneOne, oneTwo, oneTwoOne, oneTwoTwo, oneTwoThree, oneTwoFour, oneTwoFive, oneThree;
     let two, twoOne, twoTwo, twoThree;
     let three, threeOne;
@@ -100,7 +101,7 @@
 </style>
 
 <div class="constitution">
-    <h1 class="noUnderscore">LEGENDS LEAGUE CONSTITUTION</h1>
+    <h1 class="noUnderscore">WHEEL & DEAL FANTASY LEAGUE CONSTITUTION</h1>
     
     <h2 class="noUnderscore">TABLE OF CONTENTS</h2>
     

@@ -144,10 +144,10 @@ export const managers = [
       "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Joey D",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "Bethalto", // (optional)
-      "bio": "TBD",
+      "location": "Roxana", // (optional)
+      "bio": "I promise I don't do this bad in other leagues",
       "photo": "managers/Joey.jpg", // square ratio recommended (no larger than 500x500)
-      "fantasyStart": 2020, // (optional) when did the manager start playing fantasy football
+      "fantasyStart": 2012, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "kc", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
@@ -155,12 +155,12 @@ export const managers = [
         link: 3, // manager array number within this array, or null to link back to all managers page
         image: "/managers/Gma.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
-      "favoritePlayer": 4983, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      "favoritePlayer": 1576, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "TBD",
-      "tradingScale": 10, // 1 - 10
-      "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
+      "philosophy": "Here's some things we can focus on: One, we tried hard. And two, we're still dear friends! - Glenn, Taladega Nights. But also, burn and pillage along the way ya know.",
+      "tradingScale": 6, // 1 - 10
+      "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
           {
       "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
@@ -321,22 +321,22 @@ export const managers = [
       "name": "Nick F",
       "tookOver": 2016, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Florissant", // (optional)
-      "bio": "TBD",
+      "bio": "Unlike other games in which lucre is the end and aim, [chess] recommends itself to the wise by the fact that its mimic battles are fought for no prize but honor. It is eminently and emphatically the philosopher’s game.” – Paul Morphy Welcome to the season of Chess. In the past are the checkers and connect four games you played as a kid. This now an adult’s world, and you stepped into the wrong house this time mfer. Nick “Chess Master” Fox is known for many things. Let’s not forget his playoff run with an auto drafted team in Yahoo. Or picking up Matty Ice after a pleb (won’t call anyone out here) dropped him during an MVP campaign. Let’s not look at the #14 spot in all time standings in Sleeper. That’s just Nick letting people think they are taking his chess pieces when in fact, they are just taking the pawns. You never know what will happen with the Chess Master in the race. Taking Josh Gordan in the 3rd round in 2019? Trading Mahomes for Prescott and the man Royce Freeman? 2020 1.7 pick being the man, the myth, the legend David Johnson? These are only a few key moves Nick has made to continue in his Reign of chess. So, strap in (or strap on) and get ready to watch history unfold right in front of your eyes as the Chess Master makes moves only Ben franklin with a key in a storm could make. Oh yeah, and Check. Mate.",
       "photo": "managers/Nick.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2016, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ari", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
-        name: "Lucky M", // Can be anything (usually your rival's name)
-        link: 4, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        name: "Cameron Z", // Can be anything (usually your rival's name)
+        link: 9, // manager array number within this array, or null to link back to all managers page
+        image: "/managers/Cameron.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
-      "favoritePlayer": 4983, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-      "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
+      "favoritePlayer": 223, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      "valuePosition": "K", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "TBD",
+      "philosophy": "I mean, what kind of name is Zyung? Sounds like something you would say if someone said make the sound of a sword being taken out of a sheath",
       "tradingScale": 10, // 1 - 10
-      "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
+      "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
   ]
   

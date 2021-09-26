@@ -277,7 +277,7 @@ export const managers = [
       "name": "Andrew H",
       "tookOver": 2016, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Bethalto", // (optional)
-      "bio": "<img src="https://sleepercdn.com/uploads/025f40e161856e074781b7489cdd7b12_original.jpg" alt="Plans" style="width:600px;height:400px;">",
+      "bio": "TBD.",
       "photo": "managers/Andrew.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2008, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "atl", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE

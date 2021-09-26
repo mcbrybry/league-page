@@ -285,14 +285,14 @@ export const managers = [
       "rival": {
         name: "The IR", // Can be anything (usually your rival's name)
         link: 11, // manager array number within this array, or null to link back to all managers page
-        image: <a href="https://www.gannett-cdn.com/-mm-/c8204054156a2674cd1eb178e034ce620b78f565/c=0-309-4089-2619/local/-/media/2017/11/14/INGroup/Indianapolis/636462510151299017-AP-17290104547056.jpg"> , // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        image: "/managers/tent.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       "favoritePlayer": 4983, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-      "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
+      "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
       "philosophy": "TBD",
       "tradingScale": 10, // 1 - 10
-      "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
+      "preferredContact": "Carrier Pigeon", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
       "roster": 13,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
@@ -321,7 +321,7 @@ export const managers = [
       "name": "Nick F",
       "tookOver": 2016, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Florissant", // (optional)
-      "bio": "Unlike other games in which lucre is the end and aim, [chess] recommends itself to the wise by the fact that its mimic battles are fought for no prize but honor. It is eminently and emphatically the philosopher’s game.” – Paul Morphy Welcome to the season of Chess. In the past are the checkers and connect four games you played as a kid. This now an adult’s world, and you stepped into the wrong house this time mfer. Nick “Chess Master” Fox is known for many things. Let’s not forget his playoff run with an auto drafted team in Yahoo. Or picking up Matty Ice after a pleb (won’t call anyone out here) dropped him during an MVP campaign. Let’s not look at the #14 spot in all time standings in Sleeper. That’s just Nick letting people think they are taking his chess pieces when in fact, they are just taking the pawns. You never know what will happen with the Chess Master in the race. Taking Josh Gordan in the 3rd round in 2019? Trading Mahomes for Prescott and the man Royce Freeman? 2020 1.7 pick being the man, the myth, the legend David Johnson? These are only a few key moves Nick has made to continue in his Reign of chess. So, strap in (or strap on) and get ready to watch history unfold right in front of your eyes as the Chess Master makes moves only Ben franklin with a key in a storm could make. Oh yeah, and Check. Mate.",
+      "bio": <p>"Unlike other games in which lucre is the end and aim, [chess] recommends itself to the wise by the fact that its mimic battles are fought for no prize but honor. It is eminently and emphatically the philosopher’s game.” – Paul Morphy</p> <p>Welcome to the season of Chess. In the past are the checkers and connect four games you played as a kid. This now an adult’s world, and you stepped into the wrong house this time mfer. Nick “Chess Master” Fox is known for many things. Let’s not forget his playoff run with an auto drafted team in Yahoo. Or picking up Matty Ice after a pleb (won’t call anyone out here) dropped him during an MVP campaign. Let’s not look at the #14 spot in all time standings in Sleeper. That’s just Nick letting people think they are taking his chess pieces when in fact, they are just taking the pawns. You never know what will happen with the Chess Master in the race. Taking Josh Gordan in the 3rd round in 2019? Trading Mahomes for Prescott and the man Royce Freeman? 2020 1.7 pick being the man, the myth, the legend David Johnson? These are only a few key moves Nick has made to continue in his Reign of chess.</p> <p>So, strap in (or strap on) and get ready to watch history unfold right in front of your eyes as the Chess Master makes moves only Ben franklin with a key in a storm could make. Oh yeah, and Check. Mate.</p>",
       "photo": "managers/Nick.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2016, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ari", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE

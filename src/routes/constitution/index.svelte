@@ -152,7 +152,7 @@
 	
     <h2 class="sectionHeading" bind:this={zero}>Section 0 Patron Saints</h2>
 	
-	 <img src="https://imgix.bustle.com/2017/2/6/633949140.jpg" alt="2016: Master Deflator Tom Brady"> 
+	 <img src="https://cdn.vox-cdn.com/thumbor/eUNYzrRnZ1YkfiEcy3QbDLQ_jP4=/85x0:1013x619/1200x800/filters:focal(85x0:1013x619)/cdn.vox-cdn.com/uploads/chorus_image/image/6867871/bradysad_1_1.0.jpg" alt="2016: Master Deflator Tom Brady" style="width:600px;height:400px;"> 
     
     <h3 class="subSectionHeading" bind:this={zeroOne}>1.1 Decision Process</h3>
 	

@@ -285,7 +285,7 @@ export const managers = [
       "rival": {
         name: "The IR", // Can be anything (usually your rival's name)
         link: 11, // manager array number within this array, or null to link back to all managers page
-        image: <a href="https://www.gannett-cdn.com/-mm-/c8204054156a2674cd1eb178e034ce620b78f565/c=0-309-4089-2619/local/-/media/2017/11/14/INGroup/Indianapolis/636462510151299017-AP-17290104547056.jpg" , // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        image: <a href="https://www.gannett-cdn.com/-mm-/c8204054156a2674cd1eb178e034ce620b78f565/c=0-309-4089-2619/local/-/media/2017/11/14/INGroup/Indianapolis/636462510151299017-AP-17290104547056.jpg"> , // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       "favoritePlayer": 4983, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)

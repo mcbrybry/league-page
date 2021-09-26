@@ -104,6 +104,8 @@
     
     <h2 class="noUnderscore">TABLE OF CONTENTS</h2>
     
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(zero)}>Section 0: Patron Saints</h3>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(zeroOne)}>0.1 Decision Process</h4>
     <h3 class="noUnderscore clickable" on:click={() => goToSection(one)}>Section 1: Roster</h3>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(oneOne)}>1.1 Positional Breakdown</h4>
             <h5 class="noUnderscore clickable" on:click={() => goToSection(oneOneOne)}>1.1.1 Keepers</h5>
@@ -146,6 +148,14 @@
     
     
     <hr />
+	
+    <h2 class="sectionHeading" bind:this={zero}>Section 0 Patron Saints</h2>
+	
+ 	<img src="https://imgix.bustle.com/2017/2/6/633949140.jpg" alt="Master Deflator Tom Brady"> 
+    
+    <h3 class="subSectionHeading" bind:this={zeroOne}>1.1 Decision Process</h3>
+	
+    <p>Each Patron Saint is chosen for how they inspire us to make bad decisions. Brady deflating footballs, Peterman throwing INTs, or Josh Gordon not being able to stay off the weed. In the playoffs each season, we'll decide who has truly embarrassed themselves and hold a league vote for the next season's face.</p>
     
     <h2 class="sectionHeading" bind:this={one}>Section 1 Roster Breakdown</h2>
     

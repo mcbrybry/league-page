@@ -7,12 +7,17 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
+  <p>2021 Draft Video featuring Scott Hanson of NFL Redzone: https://drive.google.com/file/d/1_9LTisRghsKfFM1jz_DinyhVssXarqyS/view?usp=sharing</p>
   <p>Welcome to Wheel & Deal, a league of patron saints, salty losses, where kickers reign and I lose in the first round.</p>
   <p>I used to do a newsletter every week for this league, but it was so much work. Then, I found a website... And here we are! This place will use all sleeper info to show a lot of the same stuff, but will also keep our history, give us some power rankings, and get me (and anyone else!) back on content.</p>
   <p>At the bottom I'll have links to all previous content like the spreadsheet that I plan on revamping, some old newsletters, draft videos etc.</p>
   <p>I hope you guys enjoy this, I'll ping the sleeper chat when I put up some sort of update. I'm still learning this so bear with me!</p>
   <p>May your waivers fail and your bench outscore your starters.</p>
   <p>LINKS!</p>
+  <p>Spreadsheet (Still needs updated): https://docs.google.com/spreadsheets/d/1D9ocPR1zcEDKTOVyrCzKqQCKTN0PwMON1JpR89ZzSNw/edit?usp=sharing</p>
+  <p>2018 Johnny Manziel W&D Yahoo League: https://football.fantasysports.yahoo.com/2018/f1/144421</p>
+  <p>2017 Brock Lobster Yahoo League: https://football.fantasysports.yahoo.com/2017/f1/569911</p>
+  <p>2016 Master Deflators Yahoo League: https://football.fantasysports.yahoo.com/2016/f1/1019173</p>
 `;
 
 /*   STEP 3   */

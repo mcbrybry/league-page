@@ -152,10 +152,10 @@
 	
     <h2 class="sectionHeading" bind:this={zero}>Section 0 Patron Saints</h2>
 	
-	<p class="underscore">2017: $1M per TD Brock Osweiler</p>
-	<img src="https://i.guim.co.uk/img/media/a64090639646ceda222602501b900aca7d6708ce/0_0_3204_1923/master/3204.jpg" alt="2017: $1M per TD Brock Osweiler" style="width:600px;height:400px;">
+	<p>2017: $1M per TD Brock Osweiler</p>
+	 <img src="https://cdn.theathletic.com/app/uploads/2021/04/01075339/Brock-Osweiler-1024x672.jpg" alt="2017: $1M per TD Brock Osweiler" style="width:600px;height:400px;">
 	
-	<p class="underscore">2016: Master Deflator Tom Brady</p>
+	<p>2016: Master Deflator Tom Brady</p>
 	 <img src="https://cdn.vox-cdn.com/thumbor/eUNYzrRnZ1YkfiEcy3QbDLQ_jP4=/85x0:1013x619/1200x800/filters:focal(85x0:1013x619)/cdn.vox-cdn.com/uploads/chorus_image/image/6867871/bradysad_1_1.0.jpg" alt="2016: Master Deflator Tom Brady" style="width:600px;height:400px;"> 
     
     <h3 class="subSectionHeading" bind:this={zeroOne}>1.1 Decision Process</h3>

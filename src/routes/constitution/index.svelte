@@ -105,8 +105,8 @@
     
     <h2 class="noUnderscore">TABLE OF CONTENTS</h2>
     
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(zero)}>Section 0: Patron Saints</h3>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(zeroOne)}>0.1 Decision Process</h4>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(zero)}>Section X: Patron Saints</h3>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(zeroOne)}>X.1 Decision Process</h4>
     <h3 class="noUnderscore clickable" on:click={() => goToSection(one)}>Section 1: Roster</h3>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(oneOne)}>1.1 Positional Breakdown</h4>
             <h5 class="noUnderscore clickable" on:click={() => goToSection(oneOneOne)}>1.1.1 Keepers</h5>
@@ -150,7 +150,19 @@
     
     <hr />
 	
-    <h2 class="sectionHeading" bind:this={zero}>Section 0 Patron Saints</h2>
+    <h2 class="sectionHeading" bind:this={zero}>Section X Patron Saints</h2>	
+		
+	<p>2021: Strip Club Booty Lover Dwayne Haskins</p>
+	 <img src="https://dailysnark.com/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-11.24.08-AM-1024x661.png" alt="2021: Strip Club Booty Lover Dwayne Haskins" style="width:600px;height:400px;">
+
+	<p>2020: The 6 Time Reinstatement Champion Josh Gordon</p>
+	 <img src="https://cdn.vox-cdn.com/thumbor/vhPUmJ4knikOG0F_PPXt62EaccU=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/9844637/DQtf4WPVoAAqYA5.jpg" alt="2020: The 6 Time Reinstatement Champion Josh Gordon" style="width:600px;height:400px;">
+
+	<p>2019: 5 INT's in a Half Nathan Peterman</p>
+	 <img src="https://ftw.usatoday.com/wp-content/uploads/sites/90/2017/11/usatsi_10425733.jpg" alt="2019: 5 INT's in a Half Nathan Peterman" style="width:600px;height:400px;">
+
+	<p>2018: The Money Man in Disguise Johnny Manziel</p>
+	 <img src="https://www.nydailynews.com/resizer/7aAWmPjqEugaMS8xUFHvkgEPguE=/800x510/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/ENB5N3W4BNVQO4A6CR7NRESV2Q.jpg" alt="2018: The Money Man in Disguise Johnny Manziel" style="width:600px;height:400px;">
 	
 	<p>2017: $1M per TD Brock Osweiler</p>
 	 <img src="https://cdn.theathletic.com/app/uploads/2021/04/01075339/Brock-Osweiler-1024x672.jpg" alt="2017: $1M per TD Brock Osweiler" style="width:600px;height:400px;">
@@ -158,7 +170,7 @@
 	<p>2016: Master Deflator Tom Brady</p>
 	 <img src="https://cdn.vox-cdn.com/thumbor/eUNYzrRnZ1YkfiEcy3QbDLQ_jP4=/85x0:1013x619/1200x800/filters:focal(85x0:1013x619)/cdn.vox-cdn.com/uploads/chorus_image/image/6867871/bradysad_1_1.0.jpg" alt="2016: Master Deflator Tom Brady" style="width:600px;height:400px;"> 
     
-    <h3 class="subSectionHeading" bind:this={zeroOne}>1.1 Decision Process</h3>
+    <h3 class="subSectionHeading" bind:this={zeroOne}>X.1 Decision Process</h3>
 	
     <p>Each Patron Saint is chosen for how they inspire us to make bad decisions. Brady deflating footballs, Peterman throwing INTs, or Josh Gordon not being able to stay off the weed. In the playoffs each season, we'll decide who has truly embarrassed themselves and hold a league vote for the next season's face.</p>
     

@@ -279,13 +279,13 @@ export const managers = [
       "location": "Bethalto", // (optional)
       "bio": "TBD",
       "photo": "managers/Andrew.jpg", // square ratio recommended (no larger than 500x500)
-      "fantasyStart": 2016, // (optional) when did the manager start playing fantasy football
+      "fantasyStart": 2008, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "atl", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
-        name: "Lucky M", // Can be anything (usually your rival's name)
-        link: 4, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        name: "The IR", // Can be anything (usually your rival's name)
+        link: 11, // manager array number within this array, or null to link back to all managers page
+        image: <a href="https://www.gannett-cdn.com/-mm-/c8204054156a2674cd1eb178e034ce620b78f565/c=0-309-4089-2619/local/-/media/2017/11/14/INGroup/Indianapolis/636462510151299017-AP-17290104547056.jpg" , // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       "favoritePlayer": 4983, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)

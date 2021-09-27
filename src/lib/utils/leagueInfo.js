@@ -14,7 +14,7 @@ export const homepageText = `
   <p>I hope you guys enjoy this, I'll ping the sleeper chat when I put up some sort of update. I'm still learning this so bear with me!</p>
   <p>May your waivers fail and your bench outscore your starters.</p>
   <p>LINKS!</p>
-  <p>Spreadsheet (Still needs updated): https://docs.google.com/spreadsheets/d/1D9ocPR1zcEDKTOVyrCzKqQCKTN0PwMON1JpR89ZzSNw/edit?usp=sharing</p>
+  <p>Spreadsheet: INCLUDES HARDCORE TITLE, CHAMP PICS, YAHOO RECORDS, H2H TO BE UPDATED: https://docs.google.com/spreadsheets/d/1D9ocPR1zcEDKTOVyrCzKqQCKTN0PwMON1JpR89ZzSNw/edit?usp=sharing</p>
   <p>2018 Johnny Manziel W&D Yahoo League: https://football.fantasysports.yahoo.com/2018/f1/144421</p>
   <p>2017 Brock Lobster Yahoo League: https://football.fantasysports.yahoo.com/2017/f1/569911</p>
   <p>2016 Master Deflators Yahoo League: https://football.fantasysports.yahoo.com/2016/f1/1019173</p>

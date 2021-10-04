@@ -13,6 +13,8 @@ export const homepageText = `
   <p>At the bottom I'll have links to all previous content like the spreadsheet that I plan on revamping, some old newsletters, draft videos etc.</p>
   <p>I hope you guys enjoy this, I'll ping the sleeper chat when I put up some sort of update. I'm still learning this so bear with me!</p>
   <p>May your waivers fail and your bench outscore your starters.</p>
+  <p><img src="https://sleepercdn.com/uploads/76e4b0ca15380011fd95173861e25be4_original.jpg">
+
   <p>LINKS!</p>
   <p>Spreadsheet: INCLUDES HARDCORE TITLE, CHAMP PICS, YAHOO RECORDS, H2H TO BE UPDATED: https://docs.google.com/spreadsheets/d/1D9ocPR1zcEDKTOVyrCzKqQCKTN0PwMON1JpR89ZzSNw/edit?usp=sharing</p>
   <p>2018 Johnny Manziel W&D Yahoo League: https://football.fantasysports.yahoo.com/2018/f1/144421</p>
